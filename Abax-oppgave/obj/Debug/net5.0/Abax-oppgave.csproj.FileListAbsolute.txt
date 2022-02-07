@@ -1,0 +1,16 @@
+C:\Users\stigh\Documents\Modul 3\Moodle\Arv\Abax-oppgave\Abax-oppgave\bin\Debug\net5.0\Abax-oppgave.exe
+C:\Users\stigh\Documents\Modul 3\Moodle\Arv\Abax-oppgave\Abax-oppgave\bin\Debug\net5.0\Abax-oppgave.deps.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Arv\Abax-oppgave\Abax-oppgave\bin\Debug\net5.0\Abax-oppgave.runtimeconfig.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Arv\Abax-oppgave\Abax-oppgave\bin\Debug\net5.0\Abax-oppgave.runtimeconfig.dev.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Arv\Abax-oppgave\Abax-oppgave\bin\Debug\net5.0\Abax-oppgave.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Arv\Abax-oppgave\Abax-oppgave\bin\Debug\net5.0\ref\Abax-oppgave.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Arv\Abax-oppgave\Abax-oppgave\bin\Debug\net5.0\Abax-oppgave.pdb
+C:\Users\stigh\Documents\Modul 3\Moodle\Arv\Abax-oppgave\Abax-oppgave\obj\Debug\net5.0\Abax-oppgave.csproj.AssemblyReference.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Arv\Abax-oppgave\Abax-oppgave\obj\Debug\net5.0\Abax-oppgave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stigh\Documents\Modul 3\Moodle\Arv\Abax-oppgave\Abax-oppgave\obj\Debug\net5.0\Abax-oppgave.AssemblyInfoInputs.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Arv\Abax-oppgave\Abax-oppgave\obj\Debug\net5.0\Abax-oppgave.AssemblyInfo.cs
+C:\Users\stigh\Documents\Modul 3\Moodle\Arv\Abax-oppgave\Abax-oppgave\obj\Debug\net5.0\Abax-oppgave.csproj.CoreCompileInputs.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Arv\Abax-oppgave\Abax-oppgave\obj\Debug\net5.0\Abax-oppgave.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Arv\Abax-oppgave\Abax-oppgave\obj\Debug\net5.0\ref\Abax-oppgave.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Arv\Abax-oppgave\Abax-oppgave\obj\Debug\net5.0\Abax-oppgave.pdb
+C:\Users\stigh\Documents\Modul 3\Moodle\Arv\Abax-oppgave\Abax-oppgave\obj\Debug\net5.0\Abax-oppgave.genruntimeconfig.cache
